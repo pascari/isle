@@ -1,0 +1,111 @@
+SizeX = 5
+SizeY = 5
+EventRange = 1000
+ProcessorNumber = 5
+
+WolfPopulationMax = 30
+WolfAreaMoveSpeed = 3
+WolfWeight = 50
+WolfFoodSaturationMax = 8
+WolfFoodSaturation = 4
+WolfBreedFactor = 10
+
+BoaPopulationMax = 30
+BoaAreaMoveSpeed = 1
+BoaWeight = 15
+BoaFoodSaturationMax = 3
+BoaFoodSaturation = 1.5
+BoaBreedFactor = 10
+
+FoxPopulationMax = 30
+FoxAreaMoveSpeed = 2
+FoxWeight = 8
+FoxFoodSaturationMax = 2
+FoxFoodSaturation = 1
+FoxBreedFactor = 10
+
+BearPopulationMax = 5
+BearAreaMoveSpeed = 2
+BearWeight = 500
+BearFoodSaturationMax = 80
+BearFoodSaturation = 40
+BearBreedFactor = 2
+
+EaglePopulationMax = 20
+EagleAreaMoveSpeed = 3
+EagleWeight = 6
+EagleFoodSaturationMax = 1
+EagleFoodSaturation = 0.5
+EagleBreedFactor = 6
+
+HorsePopulationMax = 20
+HorseAreaMoveSpeed = 4
+HorseWeight = 400
+HorseFoodSaturationMax = 60
+HorseFoodSaturation = 30
+HorseBreedFactor = 8
+
+DeerPopulationMax = 20
+DeerAreaMoveSpeed = 4
+DeerWeight = 300
+DeerFoodSaturationMax = 50
+DeerFoodSaturation = 25
+DeerBreedFactor = 8
+
+RabbitPopulationMax = 150
+RabbitAreaMoveSpeed = 2
+RabbitWeight = 2
+RabbitFoodSaturationMax = 0.45
+RabbitFoodSaturation = 0.23
+RabbitBreedFactor = 60
+
+MousePopulationMax = 500
+MouseAreaMoveSpeed = 1
+MouseWeight = 0.05
+MouseFoodSaturationMax = 0.01
+MouseFoodSaturation = 0.005
+MouseBreedFactor = 200
+
+GoatPopulationMax = 140
+GoatAreaMoveSpeed = 3
+GoatWeight = 60
+GoatFoodSaturationMax = 10
+GoatFoodSaturation = 4
+GoatBreedFactor = 55
+
+SheepPopulationMax = 140
+SheepAreaMoveSpeed = 3
+SheepWeight = 70
+SheepFoodSaturationMax = 15
+SheepFoodSaturation = 7
+SheepBreedFactor = 60
+
+BoarPopulationMax = 50
+BoarAreaMoveSpeed = 2
+BoarWeight = 400
+BoarFoodSaturationMax = 50
+BoarFoodSaturation = 25
+BoarBreedFactor = 22
+
+BuffaloPopulationMax = 10
+BuffaloAreaMoveSpeed = 3
+BuffaloWeight = 700
+BuffaloFoodSaturationMax = 100
+BuffaloFoodSaturation = 50
+BuffaloBreedFactor = 3
+
+DuckPopulationMax = 200
+DuckAreaMoveSpeed = 4
+DuckWeight = 1
+DuckFoodSaturationMax = 0.15
+DuckFoodSaturation = 0.075
+DuckBreedFactor = 80
+
+CaterpillarPopulationMax = 1000
+CaterpillarAreaMoveSpeed = 0
+CaterpillarWeight = 0.01
+CaterpillarFoodSaturationMax = 0
+CaterpillarFoodSaturation = 0
+CaterpillarBreedFactor = 200
+
+PlantPopulationMax = 200
