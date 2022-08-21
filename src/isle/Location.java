@@ -224,6 +224,8 @@ public class Location implements Runnable {
                         ", уток: " + population.get("duckPopulation") +
                         ", гусениц: " + population.get("caterpillarPopulation") + ")" +
                         "\n\t\t\t   Растений: " + plants.size() +
+                        "\n" +
+                        "--------------" +
                         "\n";
     }
 }
